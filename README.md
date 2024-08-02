@@ -10,7 +10,7 @@ I am currently working on a digital avatar creation and customization as well as
 ## Links
 * [Web Portfolio](https://guannankwok.wixstudio.io/uxportfolio)
 * [Asset Library](https://guannan-kwok.github.io/assetLibrary/)
-## Featured Projects
+
 
 <!--
 **guannan-kwok/guannan-kwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
