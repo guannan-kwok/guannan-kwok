@@ -8,7 +8,7 @@ I also enjoy digital photography - in particular wildlife and architecture.
 I am currently working on a digital avatar creation and customization as well as continuing to publish new content to my asset library which includes models, materials and vector grpahics used in my projects.
 
 ## Links
-* [Web Portfolio](https://matthewkwok.myportfolio.com/home)
+* [Web Portfolio](https://guannankwok.wixstudio.io/uxportfolio)
 * [Asset Library](https://guannan-kwok.github.io/assetLibrary/)
 ## Featured Projects
 
